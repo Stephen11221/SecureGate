@@ -1,0 +1,6 @@
+{
+  "name": "SecureGate - Kenya Cybersecurity & Hacker Network",
+  "description": "Invite-only platform for Kenyan computer specialists and ethical hackers featuring encrypted messaging, code vaults, CTF challenge boards, and real-time monitoring.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
